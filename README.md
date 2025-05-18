@@ -4,7 +4,7 @@ Unsupervised learning project analyzing annual spending patterns of 440 wholesal
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Company XYZ is a wholesale distributor serving business clients such as retailers, restaurants, hotels, and cafés across Portugal. The management seeks to better understand the spending behavior of its 440 clients across six product categories to make strategic decisions regarding inventory, delivery optimization, and client segmentation.
 
@@ -12,7 +12,7 @@ This project was completed as part of an academic data science assignment and in
 
 ---
 
-## 🧾 Dataset Description
+## Dataset Description
 
 The dataset includes the following information for each client:
 - **Channel**: Type of client – Horeca (1) or Retail (2)
@@ -26,7 +26,7 @@ The dataset includes the following information for each client:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 We used a clustering-based approach to segment clients based on their spending behavior:
 
@@ -37,7 +37,7 @@ We used a clustering-based approach to segment clients based on their spending b
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 We identified **4 client clusters** with distinct purchasing behaviors:
 
@@ -50,7 +50,7 @@ We identified **4 client clusters** with distinct purchasing behaviors:
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 - **Cluster 1**: Introduce bulk purchasing programs and set up regional hubs to improve delivery efficiency.
 - **Cluster 2**: Offer flexible contracts and seasonal inventory adjustments to support business growth.
@@ -59,14 +59,14 @@ We identified **4 client clusters** with distinct purchasing behaviors:
 
 ---
 
-## 📁 Deliverables
+## Deliverables
 
 - `Codefile.Rmd` – Contains data exploration, preprocessing, and clustering implementation.
 - `Executive Summary.pdf` – A business-facing summary of findings and recommendations for XYZ management.
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Harshal Sable  
 - Abraham George  
